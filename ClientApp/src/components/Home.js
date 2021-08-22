@@ -55,7 +55,7 @@ export class Home extends Component {
                             <div class="card-body">
                                 <h5 class="card-title">Design</h5>
                                 <p class="card-text">
-                                    Designing the Urban Forests with focus on accessibility, water management, variety of native trees and shrubs and use of Smart City technology
+                                    Design Urban Forests with focus on accessibility, water management, variety of native trees and shrubs and use of Smart City technology
                                 </p>
                             </div>
                         </div>
@@ -67,8 +67,8 @@ export class Home extends Component {
                             <div class="card-body">
                                 <h5 class="card-title">Locate</h5>
                                 <p class="card-text">
-                                    Identifying GPS co-ordinates of all trees and significant shrubs, and
-                                    mapping existing and planned tree locations.
+                                    Locate GPS coordinates of all trees and significant shrubs, and
+                                    map existing and planned tree locations.
                                 </p>
                             </div>
                         </div>
